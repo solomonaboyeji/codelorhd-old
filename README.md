@@ -5,13 +5,14 @@ _Efficiency and Responsiveness of software applications are attributes I put in 
 
 _I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks._
 
-- I build APIs in FastAPI
-- Fullstack development in Django.
-- ReactJS/NextJS are my go-to framework for frontend.
-- C'mon City!
-- I keep learning and applying.
-- Fun Fact: I like coding and building products for myself, individuals and businesses.
-- Fun Fact: Never make a project look boring to me.
+- 🔭 I build APIs in Django Rest Framework
+- 🌱 I'm currently learning FastAPI.
+- 💻 Fullstack development in Django.
+- 💻 ReactJS/NextJS are my go-to framework for frontend.
+- ⚽ C'mon City!
+- 🌱 I keep learning and applying.
+- ⚡ Fun Fact: I like coding and building products for myself, individuals and businesses.
+- ⚡ Fun Fact: Never make a project look boring to me.
 
 <!--
 **codelorhd/codelorhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
