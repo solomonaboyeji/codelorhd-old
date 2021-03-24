@@ -3,12 +3,13 @@
 
 _Efficiency and Responsiveness of software applications are attributes I put in mind while working on clients' software products. I go the extra length to make sure applications meet the requirement and can readily satisfy future needs._
 
-_I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks._
+🕴️ _ I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks._
 
 - 🔭 I build APIs in Django Rest Framework
 - 🌱 I'm currently learning FastAPI.
 - 💻 Fullstack development in Django.
 - 💻 ReactJS/NextJS are my go-to framework for frontend.
+- 📱 I build mobile apps in Flutter / Java.
 - ⚽ C'mon City!
 - 🌱 I keep learning and applying.
 - ⚡ Fun Fact: I like coding and building products for myself, individuals and businesses.
