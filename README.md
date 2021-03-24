@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, thanks for checking up on me here. 👋
+
+### Efficiency and Responsiveness of software applications are attributes I put in mind while working on clients' software products. I go the extra length to make sure applications meet the requirement and can readily satisfy future needs.
+
+### I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks. 
 
 <!--
 **codelorhd/codelorhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
