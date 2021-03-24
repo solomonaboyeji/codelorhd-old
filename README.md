@@ -1,5 +1,5 @@
-##### Hi, thanks for checking up on me here. 
-##### I am Solomon Aboyeji, you can call me Adeleke or CodeLorhd! 👋
+##### Hi, thanks for checking up on me here.  
+##### I am Solomon Aboyeji, you can call me Adeleke or CodeLorhd! 🤓
 
 _Efficiency and Responsiveness of software applications are attributes I put in mind while working on clients' software products. I go the extra length to make sure applications meet the requirement and can readily satisfy future needs._
 
