@@ -5,7 +5,7 @@ _Efficiency and Responsiveness of software applications are attributes I put in 
 
 🕴️ _I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks._
 
-- 🔭 I build APIs in Django Rest Framework
+- 🔭 I build APIs in Django Rest Framework, Flask
 - 🌱 I'm currently learning FastAPI.
 - 💻 Fullstack development in Django.
 - 💻 ReactJS/NextJS are my go-to framework for frontend.
