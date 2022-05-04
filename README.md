@@ -1,7 +1,7 @@
 ##### Hi, thanks for checking up on me here.  
 ##### I am Solomon Aboyeji, you can call me Adeleke or CodeLorhd! 🤓
 
-_Efficiency and Responsiveness of software applications are attributes I put in mind while working on clients' software products. I go the extra length to make sure applications meet the requirement and can readily satisfy future needs._
+_Efficiency and Responsiveness of software applications are attributes I put in mind while working on clients' software products. I go the extra length to make sure applications meet the requirement and can readily satisfy present and future needs._
 
 🕴️ _I seek to work with business owners and individuals to help them achieve their desired solutions to various software related problems or tasks._
 
