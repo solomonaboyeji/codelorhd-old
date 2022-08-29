@@ -10,7 +10,7 @@ _Efficiency and Responsiveness of software applications are attributes I put in 
 - 📱 I build mobile apps in Flutter.
 - ⚽ C'mon City!
 - 🌱 I keep learning and applying.
-- 📕 Currently Reading Clean Code
+- 📕 Currently Reading Clean Code and Designing Data-Intensive Applications
 - ⚡ Fun Fact: I like coding and building products for myself, individuals and businesses.
 - ⚡ Fun Fact: Never make a project look boring to me.
 
